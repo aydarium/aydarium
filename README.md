@@ -1,4 +1,4 @@
-### Greetings, Aydar here 👋👋👋
+# Greetings, Aydar here 👋👋👋
 
 This profile is currently used to study test automation. Anything is better than doomscrolling, right?
 
